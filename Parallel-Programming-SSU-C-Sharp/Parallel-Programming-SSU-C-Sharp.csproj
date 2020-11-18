@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Parallel_Programming_SSU_C_Sharp</RootNamespace>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+</Project>
